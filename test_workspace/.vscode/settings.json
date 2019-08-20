@@ -1,0 +1,6 @@
+{
+    "helloworld.test_workspace": "overwritten value",
+    "helloworld_nested": {
+        "test_workspace": "overwritten value"
+    }
+}
